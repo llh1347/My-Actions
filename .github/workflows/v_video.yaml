@@ -3,7 +3,7 @@ name: 腾讯视频签到
 on:
     workflow_dispatch:
     schedule:
-        - cron: "0 16 * * *"
+        - cron: "25 4 * * *"
     watch:
         types: [started]
 
