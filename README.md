@@ -42,8 +42,6 @@
 [@NobyDa](https://github.com/NobyDa/)
 
 # 支持一下
-
-  ![支持一下](https://cdn.jsdelivr.net/gh/BlueskyClouds/Script@master/img/2021/05/25/img/wx.png)
 ### 访问量
 
 ![](http://profile-counter.glitch.me/MayoBlueSky/count.svg)
